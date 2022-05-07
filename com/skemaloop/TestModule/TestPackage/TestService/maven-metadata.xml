@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skemaloop.TestModule.TestPackage</groupId>
+  <artifactId>TestService</artifactId>
+  <versioning>
+    <release>draft</release>
+    <versions>
+      <version>draft</version>
+    </versions>
+    <lastUpdated>20220507074623</lastUpdated>
+  </versioning>
+</metadata>
